@@ -2,7 +2,7 @@
     Circuit Monkey
 
     Equinox(tm) - 0801-B - 64 Pixel Matrix - Demo Modes and Patterns
-    This item is compatible with WS2812B and NeoPixel code
+    This item is compatible with WS2812C and NeoPixel code
 
     Available on Tindie at: https://www.tindie.com/products/16462/
 
